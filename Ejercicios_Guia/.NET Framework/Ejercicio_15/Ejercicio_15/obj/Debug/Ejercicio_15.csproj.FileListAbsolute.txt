@@ -1,0 +1,10 @@
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\Ejercicio_15.exe.config
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\Ejercicio_15.exe
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\Ejercicio_15.pdb
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\Biblioteca.dll
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\Biblioteca.pdb
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\Ejercicio_15.csprojAssemblyReference.cache
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\Ejercicio_15.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\Ejercicio_15.csproj.CopyComplete
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\Ejercicio_15.exe
+C:\Users\ezequ\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\Ejercicio_15.pdb

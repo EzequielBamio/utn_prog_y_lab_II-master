@@ -1,0 +1,12 @@
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\bin\Debug\net5.0\Archivos.deps.json
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\bin\Debug\net5.0\Archivos.dll
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\bin\Debug\net5.0\ref\Archivos.dll
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\bin\Debug\net5.0\Archivos.pdb
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.csproj.AssemblyReference.cache
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.dll
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\obj\Debug\net5.0\ref\Archivos.dll
+C:\Users\ezequ\Desktop\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.pdb

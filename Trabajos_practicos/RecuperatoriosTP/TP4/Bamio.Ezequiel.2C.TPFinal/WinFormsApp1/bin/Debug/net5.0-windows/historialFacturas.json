@@ -1,0 +1,361 @@
+[{
+        "IdCliente": 2,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Powerade",
+                "Codigo": 15993,
+                "Precio": 81,
+                "Stock": 1
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Brahma",
+                "Codigo": 70230,
+                "Precio": 184,
+                "Stock": 2
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Corona",
+                "Codigo": 36647,
+                "Precio": 144,
+                "Stock": 1
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Quilmes",
+                "Codigo": 42464,
+                "Precio": 170,
+                "Stock": 2
+            }
+        ],
+        "Fecha": "2021-11-22T19:15:35.6283657-03:00",
+        "Id": 0
+    }, {
+        "IdCliente": 9,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Coca-Cola",
+                "Codigo": 72057,
+                "Precio": 180,
+                "Stock": 1
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Brahma",
+                "Codigo": 10147,
+                "Precio": 248,
+                "Stock": 2
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Powerade",
+                "Codigo": 82065,
+                "Precio": 213,
+                "Stock": 2
+            }
+        ],
+        "Fecha": "2021-11-22T19:16:07.8813733-03:00",
+        "Id": 1
+    }, {
+        "IdCliente": 6,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Quilmes",
+                "Codigo": 42464,
+                "Precio": 170,
+                "Stock": 2
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Heineken",
+                "Codigo": 59984,
+                "Precio": 168,
+                "Stock": 2
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Pepsi",
+                "Codigo": 29421,
+                "Precio": 230,
+                "Stock": 1
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Pepsi",
+                "Codigo": 20927,
+                "Precio": 133,
+                "Stock": 1
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Sprite",
+                "Codigo": 59103,
+                "Precio": 209,
+                "Stock": 1
+            }
+        ],
+        "Fecha": "2021-11-23T19:17:00.1511671-03:00",
+        "Id": 2
+    }, {
+        "IdCliente": 12,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Heineken",
+                "Codigo": 90096,
+                "Precio": 147,
+                "Stock": 2
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Pepsi",
+                "Codigo": 47441,
+                "Precio": 165,
+                "Stock": 2
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Coca-Cola",
+                "Codigo": 54178,
+                "Precio": 229,
+                "Stock": 2
+            }
+        ],
+        "Fecha": "2021-11-24T19:17:30.8620114-03:00",
+        "Id": 3
+    }, {
+        "IdCliente": 13,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Quilmes",
+                "Codigo": 42464,
+                "Precio": 170,
+                "Stock": 4
+            }
+        ],
+        "Fecha": "2021-11-25T19:29:24.657838-03:00",
+        "Id": 4
+    }, {
+        "IdCliente": 5,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Coca-Cola",
+                "Codigo": 13185,
+                "Precio": 191,
+                "Stock": 3
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Quilmes",
+                "Codigo": 91420,
+                "Precio": 156,
+                "Stock": 1
+            }
+        ],
+        "Fecha": "2021-11-25T19:29:39.8290517-03:00",
+        "Id": 5
+    }, {
+        "IdCliente": 13,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Quilmes",
+                "Codigo": 42464,
+                "Precio": 170,
+                "Stock": 2
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Sprite",
+                "Codigo": 37423,
+                "Precio": 182,
+                "Stock": 2
+            }
+        ],
+        "Fecha": "2021-11-26T19:30:04.9315459-03:00",        "Id": 6
+    }, {
+        "IdCliente": 1,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Imperial",
+                "Codigo": 69133,
+                "Precio": 233,
+                "Stock": 2
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Warsteiner",
+                "Codigo": 18182,
+                "Precio": 202,
+                "Stock": 2
+            }
+        ],
+        "Fecha": "2021-10-11T19:26:34.0823943-03:00",
+        "Id": 7
+    }, {
+        "IdCliente": 12,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Brahma",
+                "Codigo": 10147,
+                "Precio": 248,
+                "Stock": 1
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Sprite",
+                "Codigo": 97567,
+                "Precio": 233,
+                "Stock": 3
+            }
+        ],
+        "Fecha": "2021-10-11T19:26:50.8856186-03:00",
+        "Id": 8
+    }, {
+        "IdCliente": 14,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Goliat",
+                "Codigo": 10086,
+                "Precio": 119,
+                "Stock": 3
+            }
+        ],
+        "Fecha": "2021-10-12T19:27:05.4366304-03:00",
+        "Id": 9
+    }, {
+        "IdCliente": 8,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Imperial",
+                "Codigo": 69133,
+                "Precio": 233,
+                "Stock": 4
+            }
+        ],
+        "Fecha": "2021-10-12T19:27:13.1139505-03:00",
+        "Id": 10
+    }, {
+        "IdCliente": 5,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Coca-Cola",
+                "Codigo": 13185,
+                "Precio": 191,
+                "Stock": 2
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Barba Roja",
+                "Codigo": 60515,
+                "Precio": 248,
+                "Stock": 2
+            }
+        ],
+        "Fecha": "2021-10-16T19:27:45.9771677-03:00",
+        "Id": 11
+    }, {
+        "IdCliente": 11,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Palermo",
+                "Codigo": 59399,
+                "Precio": 227,
+                "Stock": 3
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Cordoba",
+                "Codigo": 90731,
+                "Precio": 245,
+                "Stock": 2
+            }
+        ],
+        "Fecha": "2021-10-13T19:28:18.4846801-03:00",
+        "Id": 12
+    }, {
+        "IdCliente": 7,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Barba Roja",
+                "Codigo": 69913,
+                "Precio": 126,
+                "Stock": 2
+            }
+        ],
+        "Fecha": "2021-10-14T19:28:26.7228181-03:00",
+        "Id": 13
+    }, {
+        "IdCliente": 7,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Barba Roja",
+                "Codigo": 54356,
+                "Precio": 222,
+                "Stock": 3
+            }
+        ],
+        "Fecha": "2021-10-15T19:28:33.0871834-03:00",
+        "Id": 14
+    }, {
+        "IdCliente": 3,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 1,
+                "Nombre": "Mirinda",
+                "Codigo": 56668,
+                "Precio": 231,
+                "Stock": 5
+            }
+        ],
+        "Fecha": "2021-10-15T19:28:47.3854004-03:00",
+        "Id": 15
+    }
+]

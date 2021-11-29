@@ -1,0 +1,12 @@
+C:\Users\ezequ\source\repos\Testing\ConexionBD\obj\Debug\net5.0\ConexionBD.csproj.AssemblyReference.cache
+C:\Users\ezequ\source\repos\Testing\ConexionBD\obj\Debug\net5.0\ConexionBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\source\repos\Testing\ConexionBD\obj\Debug\net5.0\ConexionBD.AssemblyInfoInputs.cache
+C:\Users\ezequ\source\repos\Testing\ConexionBD\obj\Debug\net5.0\ConexionBD.AssemblyInfo.cs
+C:\Users\ezequ\source\repos\Testing\ConexionBD\obj\Debug\net5.0\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Testing\ConexionBD\bin\Debug\net5.0\ConexionBD.deps.json
+C:\Users\ezequ\source\repos\Testing\ConexionBD\bin\Debug\net5.0\ConexionBD.dll
+C:\Users\ezequ\source\repos\Testing\ConexionBD\bin\Debug\net5.0\ref\ConexionBD.dll
+C:\Users\ezequ\source\repos\Testing\ConexionBD\bin\Debug\net5.0\ConexionBD.pdb
+C:\Users\ezequ\source\repos\Testing\ConexionBD\obj\Debug\net5.0\ConexionBD.dll
+C:\Users\ezequ\source\repos\Testing\ConexionBD\obj\Debug\net5.0\ref\ConexionBD.dll
+C:\Users\ezequ\source\repos\Testing\ConexionBD\obj\Debug\net5.0\ConexionBD.pdb

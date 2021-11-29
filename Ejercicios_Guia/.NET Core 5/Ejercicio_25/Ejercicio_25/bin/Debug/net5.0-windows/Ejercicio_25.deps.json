@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio_25/1.0.0": {
+        "dependencies": {
+          "Conversor": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_25.dll": {}
+        }
+      },
+      "Conversor/1.0.0": {
+        "runtime": {
+          "Conversor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Conversor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

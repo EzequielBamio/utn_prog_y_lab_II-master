@@ -1,0 +1,6 @@
+C:\Users\ezequ\source\repos\Ejercicio_20\Billetes\bin\Debug\Billetes.dll
+C:\Users\ezequ\source\repos\Ejercicio_20\Billetes\bin\Debug\Billetes.pdb
+C:\Users\ezequ\source\repos\Ejercicio_20\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\ezequ\source\repos\Ejercicio_20\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_20\Billetes\obj\Debug\Billetes.dll
+C:\Users\ezequ\source\repos\Ejercicio_20\Billetes\obj\Debug\Billetes.pdb

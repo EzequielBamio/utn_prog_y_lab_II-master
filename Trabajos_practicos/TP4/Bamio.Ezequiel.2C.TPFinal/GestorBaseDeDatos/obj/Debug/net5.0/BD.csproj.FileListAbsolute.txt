@@ -1,0 +1,15 @@
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\bin\Debug\net5.0\BD.deps.json
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\bin\Debug\net5.0\BD.dll
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\bin\Debug\net5.0\ref\BD.dll
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\bin\Debug\net5.0\BD.pdb
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\bin\Debug\net5.0\Entidades.dll
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\bin\Debug\net5.0\Entidades.pdb
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\BD.csproj.AssemblyReference.cache
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\BD.AssemblyInfoInputs.cache
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\BD.AssemblyInfo.cs
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\BD.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\BD.dll
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\ref\BD.dll
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\BD.pdb
+C:\Users\ezequ\source\repos\Bamio.Ezequiel.2C.TPFinal\GestorBaseDeDatos\obj\Debug\net5.0\BD.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\bin\Debug\CalculadoraMejorada.exe.config
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\bin\Debug\CalculadoraMejorada.exe
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\bin\Debug\CalculadoraMejorada.pdb
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\obj\Debug\Juego1.csprojAssemblyReference.cache
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\obj\Debug\CalculadoraMejorada.Form1.resources
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\obj\Debug\CalculadoraMejorada.Properties.Resources.resources
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\obj\Debug\Juego1.csproj.GenerateResource.cache
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\obj\Debug\Juego1.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\obj\Debug\CalculadoraMejorada.exe
+C:\Users\ezequ\source\repos\CalculadoraMejorada\CalculadoraMejorada\obj\Debug\CalculadoraMejorada.pdb

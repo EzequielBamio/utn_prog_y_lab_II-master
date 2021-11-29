@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VistaForm/1.0.0": {
+        "dependencies": {
+          "IO": "1.0.0"
+        },
+        "runtime": {
+          "VistaForm.dll": {}
+        }
+      },
+      "IO/1.0.0": {
+        "runtime": {
+          "IO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VistaForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

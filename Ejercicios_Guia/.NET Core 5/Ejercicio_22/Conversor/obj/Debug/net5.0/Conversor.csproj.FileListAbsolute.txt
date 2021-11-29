@@ -1,0 +1,12 @@
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\bin\Debug\net5.0\Conversor.deps.json
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\bin\Debug\net5.0\Conversor.dll
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\bin\Debug\net5.0\ref\Conversor.dll
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\bin\Debug\net5.0\Conversor.pdb
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\obj\Debug\net5.0\Conversor.csproj.AssemblyReference.cache
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\obj\Debug\net5.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\obj\Debug\net5.0\Conversor.AssemblyInfoInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\obj\Debug\net5.0\Conversor.AssemblyInfo.cs
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\obj\Debug\net5.0\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\obj\Debug\net5.0\Conversor.dll
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\obj\Debug\net5.0\ref\Conversor.dll
+C:\Users\ezequ\source\repos\Ejercicio_22\Conversor\obj\Debug\net5.0\Conversor.pdb

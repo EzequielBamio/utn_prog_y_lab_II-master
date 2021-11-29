@@ -1,0 +1,7 @@
+C:\Users\ezequ\source\repos\Ejercicio_01\Ejercicio_06\bin\Debug\Ejercicio_06.exe.config
+C:\Users\ezequ\source\repos\Ejercicio_01\Ejercicio_06\bin\Debug\Ejercicio_06.exe
+C:\Users\ezequ\source\repos\Ejercicio_01\Ejercicio_06\bin\Debug\Ejercicio_06.pdb
+C:\Users\ezequ\source\repos\Ejercicio_01\Ejercicio_06\obj\Debug\Ejercicio_06.csprojAssemblyReference.cache
+C:\Users\ezequ\source\repos\Ejercicio_01\Ejercicio_06\obj\Debug\Ejercicio_06.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_01\Ejercicio_06\obj\Debug\Ejercicio_06.exe
+C:\Users\ezequ\source\repos\Ejercicio_01\Ejercicio_06\obj\Debug\Ejercicio_06.pdb

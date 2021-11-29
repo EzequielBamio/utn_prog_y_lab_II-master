@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "frmCentralTelefonica/1.0.0": {
+        "dependencies": {
+          "CentralitaHerencia": "1.0.0"
+        },
+        "runtime": {
+          "frmCentralTelefonica.dll": {}
+        }
+      },
+      "CentralitaHerencia/1.0.0": {
+        "runtime": {
+          "CentralitaHerencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "frmCentralTelefonica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CentralitaHerencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

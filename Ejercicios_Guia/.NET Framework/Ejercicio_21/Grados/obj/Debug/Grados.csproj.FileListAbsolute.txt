@@ -1,0 +1,6 @@
+C:\Users\ezequ\source\repos\Ejercicio_21\Grados\bin\Debug\Grados.dll
+C:\Users\ezequ\source\repos\Ejercicio_21\Grados\bin\Debug\Grados.pdb
+C:\Users\ezequ\source\repos\Ejercicio_21\Grados\obj\Debug\Grados.csprojAssemblyReference.cache
+C:\Users\ezequ\source\repos\Ejercicio_21\Grados\obj\Debug\Grados.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_21\Grados\obj\Debug\Grados.dll
+C:\Users\ezequ\source\repos\Ejercicio_21\Grados\obj\Debug\Grados.pdb

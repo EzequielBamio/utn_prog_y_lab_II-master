@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Testing_Truck_Movement/1.0.0": {
+        "runtime": {
+          "Testing_Truck_Movement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testing_Truck_Movement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

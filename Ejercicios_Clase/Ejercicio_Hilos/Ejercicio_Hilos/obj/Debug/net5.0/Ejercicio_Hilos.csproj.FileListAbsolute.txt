@@ -1,0 +1,16 @@
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\bin\Debug\net5.0\Ejercicio_Hilos.exe
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\bin\Debug\net5.0\Ejercicio_Hilos.deps.json
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\bin\Debug\net5.0\Ejercicio_Hilos.runtimeconfig.json
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\bin\Debug\net5.0\Ejercicio_Hilos.runtimeconfig.dev.json
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\bin\Debug\net5.0\Ejercicio_Hilos.dll
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\bin\Debug\net5.0\ref\Ejercicio_Hilos.dll
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\bin\Debug\net5.0\Ejercicio_Hilos.pdb
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\Ejercicio_Hilos.csproj.AssemblyReference.cache
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\Ejercicio_Hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\Ejercicio_Hilos.AssemblyInfoInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\Ejercicio_Hilos.AssemblyInfo.cs
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\Ejercicio_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\Ejercicio_Hilos.dll
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\ref\Ejercicio_Hilos.dll
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\Ejercicio_Hilos.pdb
+C:\Users\ezequ\source\repos\Ejercicio_Hilos\Ejercicio_Hilos\obj\Debug\net5.0\Ejercicio_Hilos.genruntimeconfig.cache

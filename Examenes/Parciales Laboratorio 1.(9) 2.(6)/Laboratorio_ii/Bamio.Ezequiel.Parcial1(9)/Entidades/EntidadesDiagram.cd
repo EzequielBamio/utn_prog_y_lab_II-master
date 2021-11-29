@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.EjercitoImperial" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAQAAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EjercitoImperial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Trooper" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCCAAAAggAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Trooper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.TrooperArena" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>TrooperArena.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.TrooperAsalto" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>TrooperAsalto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.TrooperExplorador" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAQ=</HashCode>
+      <FileName>TrooperExplorador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Entidades.Blaster" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAEAAAA=</HashCode>
+      <FileName>Trooper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

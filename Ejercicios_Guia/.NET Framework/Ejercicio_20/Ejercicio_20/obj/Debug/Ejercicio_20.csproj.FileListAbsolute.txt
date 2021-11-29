@@ -1,0 +1,10 @@
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\Ejercicio_20.exe.config
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\Ejercicio_20.exe
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\Ejercicio_20.pdb
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.csprojAssemblyReference.cache
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.exe
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.pdb
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\Billetes.dll
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\Billetes.pdb
+C:\Users\ezequ\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CopyComplete

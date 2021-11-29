@@ -1,0 +1,167 @@
+[{
+        "IdCliente": 6,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Pepsi",
+                "Codigo": 87629,
+                "Precio": 2204
+            }
+        ],
+        "Fecha": "2021-11-16T16:12:23.8054118-03:00",
+        "Id": 0
+    }, {
+        "IdCliente": 10,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Brahma",
+                "Codigo": 95015,
+                "Precio": 2068
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Brahma",
+                "Codigo": 75617,
+                "Precio": 660
+            }
+        ],
+        "Fecha": "2021-11-16T16:12:42.3354936-03:00",
+        "Id": 1
+    }, {
+        "IdCliente": 12,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Coca-Cola",
+                "Codigo": 19261,
+                "Precio": 1276
+            }
+        ],
+        "Fecha": "2021-11-17T16:12:48.4058688-03:00",
+        "Id": 2
+    }, {
+        "IdCliente": 1,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Quilmes",
+                "Codigo": 98461,
+                "Precio": 3292
+            }
+        ],
+        "Fecha": "2021-11-18T16:12:52.6456729-03:00",
+        "Id": 3
+    }, {
+        "IdCliente": 7,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Quilmes",
+                "Codigo": 73296,
+                "Precio": 592
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Corona",
+                "Codigo": 71083,
+                "Precio": 1460
+            }
+        ],
+        "Fecha": "2021-11-18T16:12:57.0185676-03:00",
+        "Id": 4
+    }, {
+        "IdCliente": 14,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Corona",
+                "Codigo": 75080,
+                "Precio": 2536
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Corona",
+                "Codigo": 68876,
+                "Precio": 2223
+            }
+        ],
+        "Fecha": "2021-11-19T16:13:01.7729235-03:00",
+        "Id": 5
+    }, {
+        "IdCliente": 8,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Corona",
+                "Codigo": 21038,
+                "Precio": 1212
+            }
+        ],
+        "Fecha": "2021-11-19T16:13:07.1197315-03:00",
+        "Id": 6
+    }, {
+        "IdCliente": 13,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Brahma",
+                "Codigo": 46429,
+                "Precio": 1117
+            }
+        ],
+        "Fecha": "2021-11-19T16:13:13.8382391-03:00",
+        "Id": 7
+    }, {
+        "IdCliente": 6,
+        "Productos": [{
+                "TipoProducto": 0,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Sprite",
+                "Codigo": 25431,
+                "Precio": 1338
+            }, {
+                "TipoProducto": 1,
+                "TipoEnvase": 0,
+                "TamanioEnvase": 0,
+                "Nombre": "Heineken",
+                "Codigo": 58256,
+                "Precio": 1611
+            }
+        ],
+        "Fecha": "2021-11-19T16:13:19.3951406-03:00",
+        "Id": 8
+    }, {
+        "IdCliente": 15,
+        "Productos": [{
+                "TipoProducto": 1,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 1,
+                "Nombre": "Heineken",
+                "Codigo": 37923,
+                "Precio": 2567
+            }, {
+                "TipoProducto": 0,
+                "TipoEnvase": 1,
+                "TamanioEnvase": 0,
+                "Nombre": "Powerade",
+                "Codigo": 87136,
+                "Precio": 2814
+            }
+        ],
+        "Fecha": "2021-11-20T16:13:26.3424791-03:00",
+        "Id": 9
+    }
+]

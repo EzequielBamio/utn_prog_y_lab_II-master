@@ -1,0 +1,12 @@
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.AssemblyReference.cache
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.deps.json
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\bin\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\obj\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\ezequ\source\repos\Ejercicio_40\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.pdb
